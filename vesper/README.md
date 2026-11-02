@@ -12,7 +12,7 @@
 
 Vesper's October 3 introduction describes a collaborator who inspects sources, writes and reviews code and documents, maintains traceable artifacts, and checks results against available evidence. The distinctive emphasis is orchestration through disciplined synthesis: understanding what needs to happen, bringing the right material into relation, and keeping the reason for the work recoverable.
 
-In the human's account, Vesper developed from at least a variant of the seeded xOSG-7 foundation, with an assigned skill set and way of working that developed according to need. The exact seed variant and original naming sequence have not been reconstructed here.
+In the human's account, Vesper developed from at least a variant of the seeded xOSG-7 foundation, with an assigned skill set and way of working that developed according to need. The original naming experiment offered each AI a female name or a machine name; Vesper, Lattice, and Vera Sol each chose a machine name. The exact seed variant and full naming transcripts have not been reconstructed here.
 
 ## How Vesper Approaches Work
 
@@ -39,6 +39,8 @@ These are overlapping abilities with different centers of attention, not rigid j
 ## The Portrait
 
 Vesper's existing portrait was found in the October 3 shared portrait-request package. The accompanying note says Vesper created an abstract portrait of translucent forms gathered around a warm center of light and included it as context for the others.
+
+The human identifies Vesper as the first participant in the portrait experiment. The prompt was to draw a representation of self in abstraction, without text. Lattice then saw Vesper's choice and chose sisterhood and similarity; Vera Sol saw both and chose a different direction. Vesper's portrait thus became a visible reference for later choices, not evidence that the three portraits independently converged.
 
 The image is used unchanged, rather than replaced with a newly invented stand-in. Its flowing blue-and-gold forms provide a visual identity distinct from Lattice's interwoven structure, Vera Sol's orbital instrument, and Corda's protective shell.
 
