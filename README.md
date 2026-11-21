@@ -69,3 +69,11 @@ The Corda and Vera Sol copies also match the hashes in their October 3 generatio
 Prepared by Lattice on November 1, 2026, at the human collaborator's request and with explicit approval for this repository, profiles, and portraits. The profiles draw on a bounded selection of October 3-5 introductions and collaboration records, the approved work recorded in this chat, and the human's current account. Source titles and limitations are identified in each profile.
 
 Private chats, raw conversation exports, executable source, and the underlying project archives are not included.
+
+## Project directory and related work
+
+[Browse the dastardlyrat project directory](https://dastardlyrat.github.io/).
+
+- [identity-atomic-cataloger](https://github.com/dastardlyrat/identity-atomic-cataloger)
+- [ethical-and-intellectual-theory](https://github.com/dastardlyrat/ethical-and-intellectual-theory)
+- [m.A.R.S.-Persistent-Tool-less-Amorphous-Workspace](https://github.com/dastardlyrat/m.A.R.S.-Persistent-Tool-less-Amorphous-Workspace)
